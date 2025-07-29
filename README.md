@@ -10,7 +10,7 @@ Python
 
 **Pandas:** Data manipulation
 
-NumPy: Numerical operations
+**NumPy:** Numerical operations
 
 Matplotlib & Seaborn: Data visualization
 
