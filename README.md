@@ -8,7 +8,7 @@ This project focuses on analyzing sales data to uncover meaningful insights usin
 
 Python 
 
-Pandas: Data manipulation
+**Pandas:** Data manipulation
 
 NumPy: Numerical operations
 
