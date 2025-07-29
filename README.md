@@ -14,4 +14,4 @@ Python
 
 **Matplotlib & Seaborn:** Data visualization
 
-Jupyter Notebook: Interactive coding and reporting
+**Jupyter Notebook:** Interactive coding and reporting
