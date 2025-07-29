@@ -12,6 +12,6 @@ Python
 
 **NumPy:** Numerical operations
 
-Matplotlib & Seaborn: Data visualization
+**Matplotlib & Seaborn:** Data visualization
 
 Jupyter Notebook: Interactive coding and reporting
