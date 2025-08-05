@@ -6,7 +6,7 @@ This project focuses on analyzing sales data to uncover meaningful insights usin
 
 # 🧰 Tools & Technologies:
 
-Python 
+# Python 
 
 **Pandas:** Data manipulation
 
